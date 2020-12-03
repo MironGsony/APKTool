@@ -1,0 +1,14 @@
+
+apktool：
+https://ibotpeaches.github.io/Apktool/install/ 
+https://bitbucket.org/iBotPeaches/apktool/downloads/
+
+dex2jar:
+https://sourceforge.net/projects/dex2jar/files/
+
+
+jd-gui：
+http://java-decompiler.github.io/
+
+dex2jar会报错用：
+https://github.com/DexPatcher/dex2jar/releases/tag/v2.1-20190905-lanchon
